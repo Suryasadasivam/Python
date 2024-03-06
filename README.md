@@ -20,7 +20,7 @@ Pandas is a Python package designed to handle relational or labeled data with ea
 
 Pandas is continuously improving and aims to be the most powerful and flexible open-source data analysis tool available in any language. Get started with Pandas today to streamline your data manipulation and analysis workflows in Python.
 
-umPy 
+  NumPy 
 
 This repository contains code and examples related to NumPy, a fundamental package for scientific computing with Python.
 
