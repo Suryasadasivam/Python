@@ -28,4 +28,12 @@ This repository contains code and examples related to NumPy, a fundamental packa
 
 NumPy is the fundamental package for scientific computing with Python. It provides support for arrays, matrices, and a collection of mathematical functions to operate on these arrays efficiently. NumPy is widely used in various fields such as mathematics, statistics, physics, engineering, and more. It helps to create random Number generation. 
 
+## About Matplotlib
+Matplotlib provides a flexible interface for creating a wide range of plots, including line plots, scatter plots, bar plots, histograms, pie charts, and more. With Matplotlib, you can customize every aspect of your plots to suit your specific needs.
 
+## Contents
+
+- `basic_plotting/`: Basic plotting examples to get you started with Matplotlib.
+- `customization/`: Examples demonstrating how to customize plots with titles, labels, legends, colors, styles, etc.
+- `advanced_techniques/`: Advanced plotting techniques such as subplots, annotations, 3D plots, etc.
+- `real-world_examples/`: Real-world examples showcasing how to create various types of plots for data analysis and visualization tasks.
