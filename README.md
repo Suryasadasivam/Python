@@ -37,3 +37,13 @@ Matplotlib provides a flexible interface for creating a wide range of plots, inc
 - `customization/`: Examples demonstrating how to customize plots with titles, labels, legends, colors, styles, etc.
 - `advanced_techniques/`: Advanced plotting techniques such as subplots, annotations, 3D plots, etc.
 - `real-world_examples/`: Real-world examples showcasing how to create various types of plots for data analysis and visualization tasks.
+
+## About plotly 
+Plotly is a data visualization library that allows you to create interactive, publication-quality graphs and charts. It supports various programming languages such as Python, R, and JavaScript, making it versatile and widely used across different fields.
+
+- interactive Visualizations
+- Publication-Quality Graphics
+- wide Range of chart Types
+- Cross Platform compatibility
+- Integeration with other Tools
+- open source and Community support
