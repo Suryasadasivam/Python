@@ -47,3 +47,4 @@ Plotly is a data visualization library that allows you to create interactive, pu
 - Cross Platform compatibility
 - Integeration with other Tools
 - open source and Community support
+- https://us06web.zoom.us/rec/share/myCAZfbapAyq_N4Ne65JSU3lvjLa6q_kZuGYISmPVisRJk4zsAV27IJuJZwviM4t.uIU7trdjq661LWek?startTime=1714822026000
